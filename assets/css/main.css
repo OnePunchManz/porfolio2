@@ -21,6 +21,26 @@
 		display: block;
 	}
 
+	.profile {
+		margin-top: 10px;
+		margin-left: 25px;
+	}
+
+	#me {
+		display: flex
+	}
+
+	.headerAbout {
+		display: flex;
+		margin-top: 20px;
+	}
+
+	.bodyAbout {
+		display: flex;
+		margin-top: 20px;
+	}
+
+
 	body {
 		line-height: 1;
 	}
