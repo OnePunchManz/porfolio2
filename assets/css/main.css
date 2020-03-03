@@ -30,6 +30,10 @@
 		display: flex
 	}
 
+	.content {
+		margin-right: 5px; 
+	}
+
 	.headerAbout {
 		display: flex;
 		margin-top: 20px;
